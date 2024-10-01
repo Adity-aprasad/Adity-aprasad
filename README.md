@@ -11,7 +11,9 @@ I'm Aditya Prasad, a passionate developer with a focus on building innovative ap
 
 💬 Ask me about React Native, Node.js, and AI/ML for structural analysis.
 
-📫 How to reach me: You can connect with me via LinkedIn or GitHub.
+📫 How to reach me: You can connect with me via www.linkedin.com/in/aditya-prasad-081029228
+
+ or GitHub.
 
 😄 Pronouns: He/Him
 
