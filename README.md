@@ -1,20 +1,19 @@
 Hi there 👋
-I'm Aditya Prasad, a passionate developer with a focus on building innovative applications and solving real-world problems through technology.
+I'm Aditya Prasad, a passionate developer focused on building innovative applications and solving real-world problems through technology.
 
-🔭 I’m currently working on GETFIT, an app that calculates user BMR, tracks calories, and keeps tabs on water intake.
+🔭 Current Project: I'm working on GETFIT, an app that calculates user BMR, tracks calories, and monitors water intake.
 
-🌱 I’m currently learning advanced AI techniques for real-time image processing.
+🌱 Learning: I'm diving into advanced AI techniques for real-time image processing.
 
-👯 I’m looking to collaborate on AI and ML projects, especially those related to fitness, health tracking, or computer vision.
+👯 Collaboration: I'm eager to collaborate on AI and ML projects, especially those related to fitness, health tracking, or computer vision.
 
-🤔 I’m looking for help with improving real-time crack detection using OpenCV and AI.
+🤔 Seeking Help: I'm looking for assistance in improving real-time crack detection using OpenCV and AI.
 
-💬 Ask me about React Native, Node.js, and AI/ML for structural analysis.
+💬 Ask Me About: React Native, Node.js, and AI/ML applications in structural analysis.
 
-📫 How to reach me: You can connect with me via www.linkedin.com/in/aditya-prasad-081029228
-
- or GitHub.
+📫 Connect with Me: Feel free to reach out via https://www.linkedin.com/in/aditya-prasad-081029228 or on https://github.com/Adity-aprasad.
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I'm an avid learner of new tech, always excited to explore the intersection of AI and app development!
+⚡ Fun Fact: I'm always learning new tech and love exploring the intersection of AI and app development!
+
