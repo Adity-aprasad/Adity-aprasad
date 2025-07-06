@@ -50,7 +50,7 @@
 ---
 
 ### 🌍 Connect with Me
-📩 **Email:** your.email@example.com  
+📩 **Email:** adityarajprasad882@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/aditya-prasad](#)  
 📂 **Portfolio:** [adityaprasad.dev](#)  
 
